@@ -30,6 +30,4 @@ public class TimelineService {
     public void saveTimeline(Timeline timeline) {
         timelineRepository.save(timeline);
     }
-
-
 }
