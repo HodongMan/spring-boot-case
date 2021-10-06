@@ -1,4 +1,4 @@
-package com.evetuate.examplecommon.common;
+package com.evetuate.examplecommon.command;
 
 
 public class CreateTodoResponse {

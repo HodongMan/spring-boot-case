@@ -39,6 +39,92 @@
 			<version>0.29.0.RELEASE</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-consumer-common -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-consumer-common</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-messaging -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-messaging</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-producer-jdbc -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-producer-jdbc</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-consumer-jdbc -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-consumer-jdbc</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-spring-consumer-jdbc -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-spring-consumer-jdbc</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-spring-messaging-starter -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-spring-messaging-starter</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-spring-events -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-spring-events</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-commands -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-commands</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-spring-consumer-common -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-spring-consumer-common</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-messaging-producer-common -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-messaging-producer-common</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-spring-messaging -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-spring-messaging</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.eventuate.tram.core/eventuate-tram-consumer-kafka -->
+		<dependency>
+			<groupId>io.eventuate.tram.core</groupId>
+			<artifactId>eventuate-tram-consumer-kafka</artifactId>
+			<version>0.29.0.RELEASE</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
 		<dependency>
 			<groupId>org.springframework.data</groupId>
